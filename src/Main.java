@@ -11,6 +11,7 @@ public class Main {
         niva.weight = 2100;
         niva.coordinate = new byte[] {1, 1, 1};
         System.out.println(niva.getValues());
+        player pl1 = new player();
 
 
     }
